@@ -14,6 +14,7 @@ app.get('/', (_, res) => {
             <input type="file" name="pdf" />
             <button type="submit">submit</button>
             <textarea id="txt" name="txt" ></textarea>
+            <button> Test </button>
         </form>
         `
     );
